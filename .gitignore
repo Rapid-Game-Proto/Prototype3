@@ -77,3 +77,4 @@ DerivedDataCache/*
 /Prototype3/Binaries
 /Prototype3/Intermediate
 /Prototype3/Saved
+*.uasset
